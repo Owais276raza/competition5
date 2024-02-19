@@ -1,0 +1,19 @@
+nav-bar {
+display: flex;
+
+
+
+}
+
+
+.nav-link{
+display: flex;
+
+}
+.nav-link > ul > li {
+
+display: inline;
+
+
+
+}
